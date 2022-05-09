@@ -1,4 +1,4 @@
-[![tipi.build](https://github.com/tipi-deps/example-googletest/workflows/tipi.build/badge.svg)](https://github.com/tipi-deps/example-libhttpserver/actions/workflows/ci.yml)
+[![tipi.build](https://github.com/tipi-deps/example-googletest/workflows/tipi.build/badge.svg)](https://github.com/tipi-deps/example-googletest/actions/workflows/ci.yml)
 
 # Example using google/googletest
 

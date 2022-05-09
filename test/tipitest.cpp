@@ -6,8 +6,3 @@ TEST(simple_test, shoud_work) {
 }
 
 
-TEST(simple_test, shoud_fail){
-    ASSERT_EQ (0, 1);
-}
-
-
